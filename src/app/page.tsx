@@ -4,8 +4,7 @@ import { useEffect } from "react";
 
 export default function Home() {
   function myFunction() {
-    window.location.href =
-      "https://play.google.com/store/apps/details?id=com.eventosmart.methodus";
+    window.location.href = "https://google.com/";
   }
   useEffect(() => {
     myFunction();
